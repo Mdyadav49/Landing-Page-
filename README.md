@@ -1,1 +1,1 @@
-# Landing-Page
+# Landing-Page :: Studysync Tutorial
